@@ -1,1 +1,3 @@
 percobaan membuat file kedua
+mengubah file kedua dari branch
+everything looks good
